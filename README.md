@@ -1,2 +1,5 @@
 # SD-PrintAmazonInvoice
-Extracts the order date from an Amazon Invoice page, changes the page title to "YYYYMMDD Amazon - XXX", and opens the print dialog
+This bookmarklet does the following:
+1. Extracts the order date from an Amazon invoice page
+2. Changes the page title to "YYYYMMDD Amazon - XXX"
+3. Opens the print dialog so that it can be saved as PDF with the page title as the filename
